@@ -3,7 +3,6 @@
 """
 Created on Wed Feb 27 16:58:21 2019
 
-@author: liuyimo
 """
 import numpy as np
 # hidden states
